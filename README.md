@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer programa repositorio 
+# hola-mundito
+repositorio 1
 
 
 Autor: Hector Sanchez Martinez 
